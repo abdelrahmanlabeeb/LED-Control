@@ -1,0 +1,10 @@
+.\objects\app.o: APP\App.c
+.\objects\app.o: APP\App.h
+.\objects\app.o: APP\../MCAL/DIO/DIO.h
+.\objects\app.o: APP\../MCAL/DIO/../PORT/PORT.h
+.\objects\app.o: APP\../MCAL/DIO/../PORT/../../SERVICE/Mc_Hw.h
+.\objects\app.o: APP\../MCAL/DIO/../PORT/../../SERVICE/TYPES.h
+.\objects\app.o: APP\../MCAL/DIO/../PORT/../../SERVICE/Bit_Math.h
+.\objects\app.o: APP\../MCAL/NVIC/NVIC.h
+.\objects\app.o: APP\../MCAL/NVIC/Nvic_Cfg.h
+.\objects\app.o: APP\../MCAL/SYSTICK/Systick.h
